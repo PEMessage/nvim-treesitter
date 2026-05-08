@@ -909,6 +909,15 @@ return {
     },
     tier = 1,
   },
+  imhex = {
+    install_info = {
+      revision = '3034450a9863b6b4318af80233c504e73dc829e4',
+      url = "https://github.com/Daniel-Esteban/tree-sitter-imhex",
+      queries = 'queries'
+    },
+    maintainers = { '@Daniel-Esteban' },
+    tier = 2
+  },
   ispc = {
     install_info = {
       revision = 'ba1bb38ac8ddfa6aa7571cbfe9b4d029f7f77447',
